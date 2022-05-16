@@ -8,3 +8,8 @@
 .actions {
   text-align: center;
 }
+
+.control.invalid input {
+  border-color: red;
+  background: #fbdada;
+}
